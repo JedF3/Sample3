@@ -24,7 +24,7 @@ After the [installation](#installation), you can run
 npm run dev
 ```
 
-This will run the app in the development mode.
+This will run the app in the development mode.a
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
